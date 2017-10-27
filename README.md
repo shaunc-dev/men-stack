@@ -1,7 +1,7 @@
 # MEN Stack (MongoDB, ExpressJS, Node.js)
 
 ## What does this do?
-This is a sample code demonstrating a basic interaction between ** MongoDB **, and ** Node.js ** (with the help of ExpressJS for proper routing).
+This is a sample code demonstrating a basic interaction between **MongoDB**, and **Node.js** (with the help of **ExpressJS** for proper routing).
 
 A simple single-page app, with the help of jQuery for ajax calls to the Node.js server, and navigating through pages. It emphasizes the use of basic CRUD operations for MongoDB.
 
