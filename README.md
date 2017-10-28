@@ -13,6 +13,7 @@ A simple single-page app, with the help of jQuery for ajax calls to the Node.js 
 1. Run `npm install` inside the project via terminal / cmd
 2. Make sure MongoDB server is properly set up, and running
 3. Run `node app` inside the project via terminal / cmd.
+4. Open a browser and type `localhost:3000` (you can change the port being used on *app.js*)
 
 To close the server, just press `ctrl + c` (depends on OS terminal)
 
